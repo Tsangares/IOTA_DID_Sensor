@@ -1,0 +1,4 @@
+/target
+*~
+.env
+stronghold_datastore.data
